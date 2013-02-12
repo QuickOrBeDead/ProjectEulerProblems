@@ -1,6 +1,4 @@
-﻿using System.Numerics;
-
-namespace Solutions
+﻿namespace Solutions
 {
     public class Problem48
     {
